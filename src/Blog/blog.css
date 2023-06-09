@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h4,
+p {
+    text-align: center;
+}
+
+.footer {
+    height: 500px;
+    width: 300px;
+    border: 1px solid;
+    margin: 5% 3%;
+    float: left;
+}
